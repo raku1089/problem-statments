@@ -7,3 +7,5 @@ General problem statment solutions
 * Print true if passed string value is palindrome else print false. -> Palindromes.js
 
 * Find charecter which is repeated maximum times. Print charecter and count . -> MaxChar.js
+
+* Find two strings are Anagaram or not. -> Anagram.js
