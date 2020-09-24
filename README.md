@@ -9,3 +9,5 @@ General problem statment solutions
 * Find charecter which is repeated maximum times. Print charecter and count . -> MaxChar.js
 
 * Find two strings are Anagaram or not. -> Anagram.js
+
+* Accept string and Capitalize first charecter of each word ->SentanceCapitalize.js
