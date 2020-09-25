@@ -11,3 +11,5 @@ General problem statment solutions
 * Find two strings are Anagaram or not. -> Anagram.js
 
 * Accept string and Capitalize first charecter of each word ->SentanceCapitalize.js
+
+* Accept string and return count of vowels -> FindVowels.js
