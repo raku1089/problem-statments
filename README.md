@@ -13,3 +13,5 @@ General problem statment solutions
 * Accept string and Capitalize first charecter of each word ->SentanceCapitalize.js
 
 * Accept string and return count of vowels -> FindVowels.js
+
+* Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
