@@ -14,4 +14,6 @@ General problem statment solutions
 
 * Accept string and return count of vowels -> FindVowels.js
 
+* Create a spiral matrix pattern -> SpiralMatrix.js
+
 * Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
