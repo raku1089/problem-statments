@@ -19,3 +19,27 @@ function fib(num) {
   }
   return fib(num - 1) + fib(num - 2);
 }
+
+//Best Solution
+// Solution With Memoizqation for peformence and cacheing to stop unnecessary calls
+function memoize(fun) {
+  let cache = {};
+  return function (...num) {
+    if (cache[num]) {
+      return cache[num];
+    } else {
+      cache[num] = fun.apply(this, num);
+    }
+    return cache[num];
+  };
+}
+
+function slowfib(num) {
+  if (num < 2) {
+    return num;
+  }
+  return fib(num - 1) + fib(num - 2);
+}
+const fib = memoize(slowfib);
+fib(5);
+fib(15);
