@@ -16,4 +16,6 @@ General problem statment solutions
 
 * Create a spiral matrix pattern -> SpiralMatrix.js
 
+* Print Fibonacci series till the passed number -> FibonacciSearies.js
+
 * Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
