@@ -18,4 +18,6 @@ General problem statment solutions
 
 * Print Fibonacci series till the passed number -> FibonacciSearies.js
 
+* Merge two sorted array and return sorted array ->MergeSortedArray.js
+
 * Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
