@@ -27,3 +27,17 @@ function mergeSortedArray(arr1, arr2) {
   }
   return sortedArray;
 }
+
+// with less variable or space complexity reduced
+
+function merge(left, right) {
+  const results = [];
+  while (left.length && right.length) {
+    if (left[0] < right[0]) {
+      results.push(left.shift());
+    } else {
+      results.push(right.shift());
+    }
+  }
+  return [...results, ...left, ...right];
+}
