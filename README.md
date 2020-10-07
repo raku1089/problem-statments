@@ -20,4 +20,6 @@ General problem statment solutions
 
 * Merge two sorted array and return sorted array ->MergeSortedArray.js
 
+* Return First Recurring Charecter from array -> FirstRecurringCharecter.js
+
 * Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
