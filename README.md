@@ -21,3 +21,5 @@ General problem statment solutions
 * Merge two sorted array and return sorted array ->MergeSortedArray.js
 
 * Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
+
+* Same Frequency Couter -> SameFrequencyCounter.js
