@@ -23,3 +23,5 @@ General problem statment solutions
 * Function currying which returns function and evalute end value once all arguments passed. -> Currying.js
 
 * Same Frequency Couter -> SameFrequencyCounter.js
+
+* Check average of pair matches given number.
