@@ -25,3 +25,5 @@ General problem statment solutions
 * Same Frequency Couter -> SameFrequencyCounter.js
 
 * Check average of pair matches given number.
+
+* Check if subsequence is present in second dtring or not
