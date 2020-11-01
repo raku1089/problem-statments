@@ -31,3 +31,7 @@ General problem statment solutions
 * Check if subsequence is present in second dtring or not
 
 * return maxSub Array sum of given array with ->MaxSubArraySum.js
+
+`JS Challenges`
+
+- debounce or call function after delay of some time -> Debounce.js
