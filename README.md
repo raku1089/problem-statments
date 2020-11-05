@@ -1,6 +1,6 @@
 # problem-statments
 
-General problem statment solutions
+`General problem statment solutions`
 
 - Fizz, Buzz,FizzBuzz challenge to print based on multiple of 3,5 and both. -> FizzBuzz.js
 
@@ -31,6 +31,8 @@ General problem statment solutions
 * Check if subsequence is present in second dtring or not
 
 * return maxSub Array sum of given array with ->MaxSubArraySum.js
+
+* Max sum of two number in unsorted array -> MaxSumOfArray.js
 
 `JS Challenges`
 
