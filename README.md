@@ -33,6 +33,8 @@
 * return maxSub Array sum of given array with ->MaxSubArraySum.js
 
 * Max sum of two number in unsorted array -> MaxSumOfArray.js
+* Recursion iplimentation for Power, factorial,product of array,range and fibonacci series -> Recursion.js
+* Flat nested array using recursion -> FlattenArrayWithRecursion.js
 
 `JS Challenges`
 
